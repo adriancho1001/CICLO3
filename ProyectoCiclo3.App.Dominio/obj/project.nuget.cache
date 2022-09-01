@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "huTTMSbNzYS2YCdvsbJSfCtWGbbPLKBSpTgPo/jQHGTaSyT+kypcOKDUq/bS7BoARIPLH5e3hvlmiJmRdzv6Dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adrián\\Desktop\\PCICLO3\\misionTicC383-master\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adrián\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Adrián\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
